@@ -2,4 +2,5 @@
 
 Making fitness tracking a daily habit is an effective way to work towards your health goals, so the mission of this web application is to keep a track of the daily physical exercises done by the person.
 
-![jogging](https://user-images.githubusercontent.com/56337798/213844137-a54b1594-a0ec-4a7c-9734-753162bfce4f.jpeg)
+
+![jogging](https://user-images.githubusercontent.com/56337798/213844177-c65bef1a-0cd5-4d53-b718-817d64cfc596.gif)
